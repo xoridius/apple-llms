@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://raw.githubusercontent.com/xoridius/apple-llms/refs/heads/main/swiftui-interface.swift</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/xoridius/apple-llms/refs/heads/main/swiftuicore-interface.swift</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/xoridius/apple-llms/refs/heads/main/tipkit-interface.swift</loc>
+  </url>
+</urlset>
