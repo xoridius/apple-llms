@@ -1,0 +1,5 @@
+# List of SwiftUI interface files
+
+https://raw.githubusercontent.com/xoridius/apple-llms/refs/heads/main/swiftui-interface.swift
+https://raw.githubusercontent.com/xoridius/apple-llms/refs/heads/main/swiftuicore-interface.swift
+https://raw.githubusercontent.com/xoridius/apple-llms/refs/heads/main/tipkit-interface.swift
